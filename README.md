@@ -1,5 +1,4 @@
 ## Olá, sou o Guilherme Dantas.
-- Atualmente estou trabalhando com Front-End e estou aperfeiçoando meus conhecimentos nessa área com o foco em ReactJS.
 
 <div align="center">
   <a href="https://github.com/guilhermeaugustodsd">
