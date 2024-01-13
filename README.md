@@ -1,4 +1,4 @@
-## Olá, sou o Guilherme Dantas. Trabalho com Front-End e estou me aperfeiçoando em React.
+## Olá, sou o Guilherme Dantas. Sou desenvolvedor front-end! E trabalho na área à 4 anos!
 
 <div align="center">
   <a href="https://github.com/guilhermeaugustodsd">
