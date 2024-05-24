@@ -1,8 +1,8 @@
-## Olá, sou o Guilherme Dantas. Sou desenvolvedor front-end! E trabalho na área à 4 anos!
+## Olá, sou o Guilherme Dantas. Sou desenvolvedor Full-Stack! E trabalho na área à 4 anos!
 
 <div align="center">
   <a href="https://github.com/guilhermeaugustodsd">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermeaugustodsd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <!--   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guilhermeaugustodsd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeaugustodsd&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
