@@ -1,4 +1,4 @@
-## Olá, sou o Guilherme Dantas. Sou desenvolvedor Full-Stack! E trabalho na área à 4 anos!
+## Olá, sou o Guilherme Dantas. Sou desenvolvedor Full-Stack! E trabalho na área à 5 anos!
 
 <div align="center">
   <a href="https://github.com/guilhermeaugustodsd">
